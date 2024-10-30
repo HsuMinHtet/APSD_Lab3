@@ -58,6 +58,7 @@ This system manages functions related to office operations for a dental clinic, 
     - Patient information
     - Surgery location
       
-   ![image](https://github.com/user-attachments/assets/c2543429-55f5-4706-b0e2-aac26d5e5dd7)
+    ![image](https://github.com/user-attachments/assets/33090c2a-4347-42bb-b79a-67aac36e301f)
+
 
 
